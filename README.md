@@ -9,7 +9,7 @@
 </p>
 
 
-![cover](.github/cover.png?style=flat)
+![cover](https://play-lh.googleusercontent.com/LNwHV3liYm8Eg7FmWqO5UnPcPUJ48C7stIBAeFmGsl5o6l1imhDxgeaIOhyWzKHY9ps=w526-h296-rw)
 
 
 ## 💻 Projeto
