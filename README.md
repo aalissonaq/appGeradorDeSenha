@@ -5,10 +5,6 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033">
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=E51C44&labelColor=0A1033" alt="NLW 06" />
-</p>
-
-
 ![cover](https://play-lh.googleusercontent.com/LNwHV3liYm8Eg7FmWqO5UnPcPUJ48C7stIBAeFmGsl5o6l1imhDxgeaIOhyWzKHY9ps=w526-h296-rw)
 
 
@@ -17,15 +13,7 @@ App para geração de senhas seguras de forma aleatória entre 5 e 15 caracteres
 
 ## :hammer_and_wrench: Features 
 
--   [ ] Autenticação Social OAuth2 com servidor do Discord.
--   [ ] Obtém perfil do usuário cadastro no Discord (username e avatar);
--   [ ] Lista os servidores do Discord que o usuário faz parte;
--   [ ] Permite realizar o agendamento de partidas;
--   [ ] Permite filtrar as partidas por categoria;
--   [ ] Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
--   [ ] Compartilha o convite para ingressar no servidor do usuário;
--   [ ] Permite redirecionar o usuário para o seu próprio servidor;
--   [ ] Disponibiliza a função de Logout.
+-   [x] Geração de Senhas randamicar com base na Quantidade de Caracteres Escolhdo
 
 
 ## ✨ Tecnologias
